@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/24.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dk.easv.questionaire.QuestionWindowController">
+    <children>
+        <GridPane layoutY="-4.0" prefHeight="543.0" prefWidth="705.0">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="369.3366394042969" minWidth="10.0" prefWidth="354.3816833496094" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="446.0" minWidth="10.0" prefWidth="125.08050537109375" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="446.0" minWidth="10.0" prefWidth="126.91949462890625" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="446.0" minWidth="10.0" prefWidth="109.167724609375" />
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints maxHeight="49.84564208984375" minHeight="10.0" prefHeight="49.84564208984375" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="49.0" minHeight="10.0" prefHeight="48.15435791015625" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            </rowConstraints>
+
+            <Label fx:id="participantLabel" contentDisplay="CENTER" prefHeight="28.0" prefWidth="352.0" text="Name of the participant:">
+                <font>
+                    <Font size="20.0" />
+                </font>
+                <padding>
+                    <Insets left="10.0" />
+                </padding>
+            </Label>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="I like to program in Greenfoot" wrappingWidth="156.09189796447754" GridPane.rowIndex="1">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="I think Java is fun" wrappingWidth="156.09189796447754" GridPane.rowIndex="2">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Java is my preffered langague" wrappingWidth="186.53492164611816" GridPane.rowIndex="3">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="I always do my assigment" wrappingWidth="156.09189796447754" GridPane.rowIndex="6">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="My assigments are fun" wrappingWidth="156.09189796447754" GridPane.rowIndex="4">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="My assigments are too easy" wrappingWidth="156.09189796447754" GridPane.rowIndex="5">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text layoutX="10.0" layoutY="235.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I think programming is fun" wrappingWidth="156.09189796447754" GridPane.rowIndex="9">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text layoutX="10.0" layoutY="235.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I understand what is going on in class" wrappingWidth="218.6692295074463" GridPane.rowIndex="8">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <Text layoutX="10.0" layoutY="285.0" strokeType="OUTSIDE" strokeWidth="0.0" text="I always attend class" wrappingWidth="156.09189796447754" GridPane.rowIndex="7">
+            <GridPane.margin>
+               <Insets left="10.0" />
+            </GridPane.margin>
+         </Text>
+         <RadioButton mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+         <RadioButton layoutX="361.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+         <RadioButton layoutX="361.0" layoutY="76.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+         <RadioButton layoutX="608.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+         <RadioButton layoutX="361.0" layoutY="125.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         <RadioButton layoutX="608.0" layoutY="125.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+         <RadioButton layoutX="484.0" layoutY="125.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+         <RadioButton layoutX="361.0" layoutY="175.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+         <RadioButton layoutX="608.0" layoutY="175.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+         <RadioButton layoutX="484.0" layoutY="175.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+         <RadioButton layoutX="608.0" layoutY="225.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+         <RadioButton layoutX="484.0" layoutY="225.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+         <RadioButton layoutX="361.0" layoutY="225.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+         <RadioButton layoutX="361.0" layoutY="275.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+         <RadioButton layoutX="608.0" layoutY="275.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+         <RadioButton layoutX="484.0" layoutY="275.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+         <RadioButton layoutX="361.0" layoutY="324.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+         <RadioButton layoutX="608.0" layoutY="324.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+         <RadioButton layoutX="484.0" layoutY="324.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="7" />
+         <RadioButton layoutX="361.0" layoutY="373.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="8" />
+         <RadioButton layoutX="608.0" layoutY="373.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="8" />
+         <RadioButton layoutX="484.0" layoutY="373.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="8" />
+         <RadioButton layoutX="361.0" layoutY="422.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="9" />
+         <RadioButton layoutX="608.0" layoutY="422.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="9" />
+         <RadioButton layoutX="484.0" layoutY="422.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="9" />
+        </GridPane>
+    </children>
+</AnchorPane>

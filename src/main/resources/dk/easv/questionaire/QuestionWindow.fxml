@@ -87,32 +87,32 @@
             </GridPane.margin>
          </Text>
          <RadioButton mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="1" />
-         <RadioButton layoutX="361.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="1" />
-         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+         <RadioButton layoutX="361.0" layoutY="76.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="1" />
          <RadioButton layoutX="361.0" layoutY="76.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="2" />
-         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="2" />
-         <RadioButton layoutX="608.0" layoutY="76.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+         <RadioButton layoutX="484.0" layoutY="76.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+         <RadioButton layoutX="608.0" layoutY="76.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="2" />
          <RadioButton layoutX="361.0" layoutY="125.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="3" />
-         <RadioButton layoutX="608.0" layoutY="125.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="3" />
-         <RadioButton layoutX="484.0" layoutY="125.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="3" />
-         <RadioButton layoutX="361.0" layoutY="175.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="4" />
-         <RadioButton layoutX="608.0" layoutY="175.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+         <RadioButton layoutX="608.0" layoutY="125.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+         <RadioButton layoutX="484.0" layoutY="125.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+         <RadioButton layoutX="361.0" layoutY="175.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+         <RadioButton layoutX="608.0" layoutY="175.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="4" />
          <RadioButton layoutX="484.0" layoutY="175.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="4" />
          <RadioButton layoutX="608.0" layoutY="225.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="5" />
-         <RadioButton layoutX="484.0" layoutY="225.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="5" />
-         <RadioButton layoutX="361.0" layoutY="225.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+         <RadioButton layoutX="484.0" layoutY="225.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+         <RadioButton layoutX="361.0" layoutY="225.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="5" />
          <RadioButton layoutX="361.0" layoutY="275.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="6" />
-         <RadioButton layoutX="608.0" layoutY="275.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="6" />
-         <RadioButton layoutX="484.0" layoutY="275.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+         <RadioButton layoutX="608.0" layoutY="275.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+         <RadioButton layoutX="484.0" layoutY="275.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="6" />
          <RadioButton layoutX="361.0" layoutY="324.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="7" />
-         <RadioButton layoutX="608.0" layoutY="324.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="7" />
-         <RadioButton layoutX="484.0" layoutY="324.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="7" />
+         <RadioButton layoutX="608.0" layoutY="324.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+         <RadioButton layoutX="484.0" layoutY="324.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="7" />
          <RadioButton layoutX="361.0" layoutY="373.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="8" />
-         <RadioButton layoutX="608.0" layoutY="373.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="8" />
-         <RadioButton layoutX="484.0" layoutY="373.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="8" />
+         <RadioButton layoutX="608.0" layoutY="373.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="8" />
+         <RadioButton layoutX="484.0" layoutY="373.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="8" />
          <RadioButton layoutX="361.0" layoutY="422.0" mnemonicParsing="false" text="Disagree" GridPane.columnIndex="1" GridPane.rowIndex="9" />
-         <RadioButton layoutX="608.0" layoutY="422.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="3" GridPane.rowIndex="9" />
-         <RadioButton layoutX="484.0" layoutY="422.0" mnemonicParsing="false" text="RadioButton" GridPane.columnIndex="2" GridPane.rowIndex="9" />
+         <RadioButton layoutX="608.0" layoutY="422.0" mnemonicParsing="false" text="Agree" GridPane.columnIndex="3" GridPane.rowIndex="9" />
+         <RadioButton layoutX="484.0" layoutY="422.0" mnemonicParsing="false" text="Neutral" GridPane.columnIndex="2" GridPane.rowIndex="9" />
         </GridPane>
     </children>
 </AnchorPane>
